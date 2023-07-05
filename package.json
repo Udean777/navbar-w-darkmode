@@ -11,8 +11,11 @@
   },
   "dependencies": {
     "@heroicons/vue": "^2.0.18",
+    "animate.css": "^4.1.1",
+    "hamburgers": "^1.2.1",
     "icons": "^1.0.0",
     "react": "^18.2.0",
+    "react-burger-menu": "^3.0.9",
     "react-dom": "^18.2.0",
     "react-icons": "^4.10.1"
   },

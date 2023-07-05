@@ -1,11 +1,13 @@
 // import {useState, useEffect} from 'react'
 import './App.css'
-import DarkMode from './component/DarkMode'
+// import Navbar from './component/Navbar'
+// import DarkMode from './component/DarkMode'
 
 function App() {
   return (
     <div>
-      <DarkMode/>
+      {/* <DarkMode/> */}
+    {/* <Navbar/> */}
     </div>
   )
 }

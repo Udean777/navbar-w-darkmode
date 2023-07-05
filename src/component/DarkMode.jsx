@@ -21,7 +21,6 @@ const DarkMode = () => {
         <button onClick={toggleDarkMode}>
             {darkMode ? <FaSun size={25}/> : <FaMoon size={25}/>}
         </button>
-        <h1>👈Pencet untuk darkmode</h1>
         </div>
     )
 }
